@@ -1,4 +1,4 @@
 
-![Header](../images/GithubBanner.gif)
+![Header](/images/GithubBanner.gif)
 <p>
 </p>
